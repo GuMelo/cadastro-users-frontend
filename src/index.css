@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  max-height: 100vh;
+  background: linear-gradient(90deg,rgba(27, 33, 140, 1) 0%, rgba(53, 134, 204, 1) 30%, rgba(46, 106, 186, 1) 70%, rgba(27, 33, 140, 1) 100%);
+  font-family: "Montserrat", sans-serif;
+}
