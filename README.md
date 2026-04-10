@@ -7,7 +7,7 @@
 - MongoDB
 
 ## 🔗 Links
-- Frontend: https://https://cadastro-users-black.vercel.app/
+- Frontend: https://cadastro-users-black.vercel.app/
 
 ## 📦 Funcionalidades
 - Criar usuário
